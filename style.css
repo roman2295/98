@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+.roma {
+    color: purple;
+}
+
+a{
+    font-family: serif;
+    font-size: 19px;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+.link-header{
+    font-family: system-ui;
+}
+
+li{
+    font-size: 17px;
+}
+
+p{
+    font-size: 17px;
+}
